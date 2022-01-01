@@ -13,4 +13,4 @@ function countTrue(iterable){
 }
 
 console.log(countTrue(arr));
-// En la proxima te anexo las demas soluciones
+// En la proxima te anexo las demas soluciones usando otros metodos.Feliz año nuevo!
